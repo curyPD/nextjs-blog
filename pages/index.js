@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
             <section className={utilStyles.headingMd}>
                 <p>
                     Lorem ipsum dolor sit amet does anyone remember what goes
-                    after the first 5 words?
+                    after the first 5 words???
                 </p>
                 <p>
                     (This is a sample website - you'll be building a site like
